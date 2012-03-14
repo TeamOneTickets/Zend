@@ -5,4 +5,4 @@ As big users of [Zend Framework](http://framework.zend.com/) we include it as a 
 
 There’s a few people out there mirroring the Zend Framework in Git via several different methods. Most are hosting full mirrors, but we only need the main library.
 
-This repo is simply **just** the `library/Zend/` folder of the *latest tagged release*., currently 1.11.9.
+This repo is simply **just** the `library/Zend/` folder of the *latest tagged release*., currently 1.11.10.
